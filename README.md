@@ -6,6 +6,9 @@ Windows 7
 Compiler：
 VS2010
 
+Language:
+C++
+
 KeyWord：
 1）MFC
 2）dmsoft
