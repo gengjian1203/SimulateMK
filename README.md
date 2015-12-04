@@ -1,4 +1,4 @@
-This is an auxiliary tool that can be used to simulate the mouse keyboard operation. (windows only)
+This is an auxiliary tool that can be used to simulate the mouse keyboard operation. (windows only with Administrator)
 
 OS：
 Windows 7
